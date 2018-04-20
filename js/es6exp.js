@@ -50,4 +50,4 @@ function varInLoop2()
 	});
 }
 
-//varInLoop2();
+varInLoop2();
