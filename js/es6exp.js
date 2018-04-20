@@ -50,4 +50,9 @@ function varInLoop2()
 	});
 }
 
-varInLoop2();
+//varInLoop2();
+
+const sg = require('./settergetter.module');
+console.log(sg.obj);
+console.log(sg.square(4));
+console.log(sg.cube(5));
